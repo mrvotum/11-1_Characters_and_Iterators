@@ -25,7 +25,7 @@ console.log(playersTeam);
 const result = [];
 
 for (const character of playersTeam) {
-  arrResult.push(character);
+  result.push(character);
 }
 
 console.log(result);
